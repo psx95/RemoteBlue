@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_margin="@dimen/activity_horizontal_margin"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/md_blue_700"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="File Explorer"
+        android:id="@+id/textView16" />
+
+    <!--<ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton_add_new_app"
+        android:src="@drawable/add"
+        android:background="#0000"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignParentEnd="true" />
+-->
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_back_file_explorer"
+        android:background="#0000"
+        android:id="@+id/back_button_file_explorer"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/recyclerview_file_explorer"
+        android:layout_below="@+id/back_button_file_explorer"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="27dp"
+        android:layout_above="@+id/cancel_button_file_explorer" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CLOSE"
+        android:textStyle="bold"
+        android:background="#0000"
+        android:textColor="@color/md_blue_700"
+        android:id="@+id/cancel_button_file_explorer"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Scroll to see more"
+        android:textColor="@color/md_blue_700"
+        android:textStyle="bold"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:id="@+id/textView3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <!--<TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/testView" />-->
+
+    <!--<ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_search_in_folder"
+        android:background="#0000"
+        android:id="@+id/imageButton_file_explorer"
+        android:layout_alignBottom="@+id/imageButton_add_new_app"
+        android:layout_toStartOf="@+id/cancel_button_apps" />-->
+
+</RelativeLayout>

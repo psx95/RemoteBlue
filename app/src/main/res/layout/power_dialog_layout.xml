@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_margin="@dimen/activity_horizontal_margin">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Power Options"
+        android:textColor="@color/md_blue_700"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:id="@+id/power_options_heading"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton_restart"
+            android:src="@drawable/restart_icon"
+            android:background="#0000"
+            android:layout_marginTop="31dp"
+            android:layout_below="@+id/power_options_heading"
+            android:layout_toEndOf="@+id/power_options_heading"
+            android:layout_marginStart="22dp" />
+
+         <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton_shutdown"
+             android:src="@drawable/shutdown_icon"
+             android:background="#0000"
+             android:layout_marginStart="15dp"
+             android:layout_alignTop="@+id/imageButton_restart"
+             android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:textColor="@color/md_blue_800"
+        android:textStyle="bold"
+        android:text="Shutdown"
+        android:id="@+id/shutdown_label"
+        android:layout_marginTop="23dp"
+        android:layout_below="@+id/imageButton_shutdown"
+        android:layout_alignEnd="@+id/hibernate_label" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Restart"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:textColor="@color/md_blue_800"
+        android:textStyle="bold"
+        android:id="@+id/restart_label"
+        android:layout_alignTop="@+id/shutdown_label"
+        android:layout_alignEnd="@+id/imageButton_restart" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton_hibernate"
+        android:src="@drawable/hibernate_icon"
+        android:background="#0000"
+        android:layout_marginTop="39dp"
+        android:layout_below="@+id/shutdown_label"
+        android:layout_alignStart="@+id/hibernate_label" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Hibernate"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:textColor="@color/md_blue_800"
+        android:textStyle="bold"
+        android:id="@+id/hibernate_label"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/imageButton_hibernate"
+        android:layout_alignStart="@+id/imageButton_shutdown" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton_lock"
+        android:src="@drawable/lock_icon"
+        android:background="#0000"
+        android:layout_marginEnd="15dp"
+        android:layout_above="@+id/hibernate_label"
+        android:layout_alignStart="@+id/restart_label" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Lock PC"
+        android:layout_marginEnd="15dp"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:textColor="@color/md_blue_800"
+        android:textStyle="bold"
+        android:id="@+id/lock_label"
+        android:layout_alignTop="@+id/hibernate_label"
+        android:layout_alignStart="@+id/imageButton_lock" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:background="#0000"
+        android:textColor="@color/md_blue_800"
+        android:textStyle="bold"
+        android:id="@+id/close_button_power"
+        android:layout_below="@+id/hibernate_label"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

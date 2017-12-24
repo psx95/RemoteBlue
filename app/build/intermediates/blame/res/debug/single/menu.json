@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_extra_options.xml",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\src\\main\\res\\menu\\menu_extra_options.xml"
+    }
+]

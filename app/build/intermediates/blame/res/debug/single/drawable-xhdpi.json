@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fast_forward_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\fast_forward_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_bars.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause_bars.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_button_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\play_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_stop_button.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_stop_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\vlc_seek_backward_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\vlc_seek_backward_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hibernate_icon.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\hibernate_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fast_forward_not_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\fast_forward_not_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pencil_white.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pencil_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music_player_slide2.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\music_player_slide2.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\vlc_seek_forward.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\vlc_seek_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\lock_icon.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\lock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_button_not_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\play_button_not_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\previous_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\previous_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\keyboard_rotated_slide2.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\keyboard_rotated_slide2.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_right_arrow_key.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_right_arrow_key.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete_not_available.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\delete_not_available.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_left_arrow_key.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_left_arrow_key.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volume_down_not_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\volume_down_not_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\keyboard.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\keyboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_media.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\play_media.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_button_of_three_vertical_squares.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_button_of_three_vertical_squares.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scroll_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\scroll_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volume_up_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\volume_up_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_back_file_explorer.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back_file_explorer.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\restart_icon.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\restart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volume_up_not_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\volume_up_not_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rocket_ship_slide2.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\rocket_ship_slide2.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\welcome_screen_1_bluetooth.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\welcome_screen_1_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\laptop.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_presentation.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_presentation.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_presentation.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play_presentation.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cursor_slide2.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\cursor_slide2.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit_not_available.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\edit_not_available.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_black.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\logo_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\remoteblue_logo_white.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\remoteblue_logo_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_white.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\logo_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_file.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mail.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shutdown_icon.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\shutdown_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_presentation_1.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_presentation_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_in_folder.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_in_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bluetooth_search.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\bluetooth_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_folder.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\power_button.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\power_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scroll_not_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\scroll_not_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rate_us_about.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\rate_us_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_presentation.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause_presentation.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\java_slide3.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\java_slide3.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\vlc_seek_forward_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\vlc_seek_forward_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\vlc_seek_backward.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\vlc_seek_backward.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\smartphone.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\smartphone.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volume_down_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\volume_down_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\remoteblue_logo_blue.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\remoteblue_logo_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\garbage.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\garbage.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\previous_not_pressed.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\previous_not_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add.png",
+        "source": "C:\\Users\\Pranav\\AndroidStudioProjects\\ProjectControl\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add.png"
+    }
+]

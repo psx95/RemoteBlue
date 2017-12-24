@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:id="@+id/holder"
+    android:clickable="true"
+    android:layout_margin="0dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/relativeLayout">
+
+        <TextView
+            android:id="@+id/title"
+            android:textColor="@color/md_blue_700"
+            android:text="AppName"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:layout_alignParentTop="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/view" />
+
+        <TextView
+        android:id="@+id/app_path"
+        android:layout_below="@id/title"
+        android:text="path"
+        android:textSize="12dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textColor="@color/md_blue_500"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/title" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/delete_button"
+            android:src="@drawable/garbage"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_image"
+            android:src="@drawable/edit"
+            android:background="#0000"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/delete_button"
+            android:layout_marginEnd="37dp" />
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="38dp"
+            android:background="@android:color/darker_gray"
+            android:layout_marginEnd="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/delete_button" />
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="38dp"
+            android:background="@android:color/darker_gray"
+            android:layout_marginEnd="15dp"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/edit_image"
+            android:id="@+id/view" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

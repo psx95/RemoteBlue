@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.psx.projectcontrol.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PAIRED DEVICES"
+        android:textStyle="bold"
+        android:textColor="@color/md_blue_800"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:id="@+id/paired_devices_heading"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/view2" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginRight="8dp"
+        android:background="@android:color/darker_gray"
+        android:id="@+id/view2"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/paired_devices_heading"
+        android:layout_alignParentStart="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="fill_parent"
+        android:layout_height="165dp"
+        android:id="@+id/recyclerview_bonded_devices"
+        android:layout_below="@+id/view2"
+        android:layout_alignStart="@+id/view2"
+        android:layout_marginTop="15dp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginRight="8dp"
+        android:background="@android:color/darker_gray"
+        android:id="@+id/view3"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/available_devices_heading"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AVAILABLE DEVICES"
+        android:textStyle="bold"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:textColor="@color/md_blue_800"
+        android:id="@+id/available_devices_heading"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/view3" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="fill_parent"
+        android:layout_height="165dp"
+        android:id="@+id/recyclerview_available_devices"
+        android:layout_below="@+id/view3"
+        android:layout_alignStart="@+id/view3"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="No Paired Computers"
+        android:textColor="@color/md_blue_700"
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:visibility="visible"
+        android:id="@+id/no_paired_devices"
+        android:layout_alignTop="@+id/recyclerview_bonded_devices"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp" />
+
+    <TextView
+        style="?android:attr/listPreferredItemHeightSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="No Available Devices. Click the search button to start searching for nearby devices"
+        android:textColor="@color/md_blue_700"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:visibility="visible"
+        android:id="@+id/no_available_devices"
+        android:layout_marginTop="49dp"
+        android:layout_alignTop="@+id/recyclerview_available_devices"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
+
+    <!--style="?android:attr/listSeparatorTextViewStyle"-->

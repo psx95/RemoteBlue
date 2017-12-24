@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="General App Settings">
+        <CheckBoxPreference android:title="Vibrate On Key Press"
+            android:key="vibrate_check"
+            android:defaultValue="false"
+            android:summary="Vibration Feedback on Key Press &amp; Taps"/>
+        <CheckBoxPreference android:title="Two Finger Tap for right click"
+            android:key="two_finger_tap"
+            android:defaultValue="true"
+            android:summary="Two finger tap on trackpad results in right click"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Other Settings">
+        <SwitchPreference android:title="Disable Sleep"
+            android:key="sleep_check"
+            android:defaultValue="false"
+            android:summary="Device will not sleep while app is active." />
+        <CheckBoxPreference android:title="Switch Off Bluetooth on Exit"
+            android:key="bluetooth_check"
+            android:defaultValue="false"
+            android:summary="Bluetooth will automatically turn off on exiting app" />
+    </PreferenceCategory>
+</PreferenceScreen>
